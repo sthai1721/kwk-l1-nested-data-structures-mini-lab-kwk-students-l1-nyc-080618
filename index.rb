@@ -7,7 +7,9 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  # your code here!
+  ingredients. each do |elements|
+    if elements[x] == order[x]
+  end
 end
 
 # example city_info hash
